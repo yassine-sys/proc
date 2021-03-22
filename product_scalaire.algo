@@ -1,0 +1,16 @@
+PROCEDURE dot_product(T1, T2:ARRAY_OF integer[n])
+VAR
+    ps,n: INTEGER;
+BEGIN
+    FOR i FROM 0 TO n   DO
+    for j FROM 0 TO j DO
+    ps = 0;
+        read(T1[i])
+        read(T2[j])
+        ps = ps + T1[i]*T2[j]
+        
+    END_FOR
+
+    
+    
+END
